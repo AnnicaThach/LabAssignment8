@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "firstName": "Annica",
+        "lastName": "Thach",
+        "email": "annica559@mail.fresnostate.edu",
+        "phone": "(559) 123-4567",
+        "editing": false
+    },
+    {
+        "id": 2,
+        "firstName": " Mike",
+        "lastName": "Tyson",
+        "email": "blank@gmail.com",
+        "phone": "(559) 891-0111",
+        "editing": false
+    },
+    {
+        "id": 3,
+        "firstName": "Muhhamad",
+        "lastName": "Ali",
+        "email": "noemail@gmail.com",
+        "phone": "(559) 121-3141",
+        "editing": false
+    }
+]
