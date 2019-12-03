@@ -6,11 +6,11 @@
     padding: 10px 5%;
 }
 .contact-button{
-    margin-right: 9px;
+    margin-right: 10px;
 }
 .contact-grid{
     display:grid;
-    margin: 10px auto;
+    margin: 20px auto;
     width: 90%;
     height: 80vh;
     max-height: 80vh;

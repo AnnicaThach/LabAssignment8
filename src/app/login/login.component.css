@@ -1,0 +1,18 @@
+.login-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 100vh;
+    align-items: center;
+}
+
+.login-form {
+    padding: 25px;
+    background-color: rgb(255, 255, 255);
+}
+
+.box-shadow {
+display: block;
+-webkit-box-shadow: 1px 4px 5px 0px rgba(0,0,0,0.43);
+-moz-box-shadow: 1px 4px 5px 0px rgba(0,0,0,0.43);
+box-shadow: 1px 4px 5px 0px rgba(0,0,0,0.43);
+}
